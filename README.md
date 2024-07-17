@@ -13,54 +13,66 @@ This is a Flask project. Follow the instructions below to set up the project loc
 Clone the repository to your local machine using:
 ```sh
 git clone https://github.com/your-username/your-repository.git
+```
 
 Navigate to the project directory:
 
-sh
-Copy code
+```sh
 cd your-repository
+```
+
 2. Create a Virtual Environment
 Create a virtual environment named .venv (if not already created):
 
-sh
-Copy code
+```sh
 python -m venv .venv
+```
+
 3. Activate the Virtual Environment
 On Windows
 Activate the virtual environment with:
 
-sh
-Copy code
+```sh
+
 .venv\Scripts\activate
+```
+
 On macOS or Linux
 Activate the virtual environment with:
 
-sh
-Copy code
+```sh
+
 source .venv/bin/activate
+```
+
 4. Install Dependencies
 Install the project dependencies using pip:
 
-sh
-Copy code
+```sh
+
 pip install -r requirements.txt
+```
+
 5. Running the Application
 Run the Flask application:
 
-sh
-Copy code
+```sh
+
 flask run
+```
+
 6. Deactivate the Virtual Environment
 When you're done, deactivate the virtual environment by typing:
 
-sh
-Copy code
+```sh
+
 deactivate
+```
+
 Project Structure
 The project structure is as follows:
 
-arduino
-Copy code
+```
 your-repository/
 ├── .venv/
 ├── app/
@@ -78,10 +90,6 @@ your-repository/
 ├── requirements.txt
 ├── README.md
 └── run.py
+```
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-typescript
-Copy code
-
-You can save this Markdown content in a file named `README.md` within your project di
