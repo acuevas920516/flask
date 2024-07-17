@@ -12,7 +12,7 @@ This is a Flask project. Follow the instructions below to set up the project loc
 ### 1. Clone the Repository
 Clone the repository to your local machine using:
 ```sh
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/acuevas920516/flask.git
 ```
 
 Navigate to the project directory:
